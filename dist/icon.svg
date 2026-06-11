@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="けいさんモンスター">
+  <!-- 背景(マスカブル安全領域を考慮して全面塗り) -->
+  <rect width="512" height="512" rx="96" fill="#FFE7B0"/>
+  <circle cx="256" cy="256" r="220" fill="#FFF6E9"/>
+  <!-- タマゴ型のモンスター本体 -->
+  <ellipse cx="256" cy="276" rx="150" ry="170" fill="#7FD8FF" stroke="#3FA8E0" stroke-width="14"/>
+  <!-- おなかの差し色 -->
+  <ellipse cx="256" cy="320" rx="92" ry="100" fill="#E3F8FF"/>
+  <!-- 角 -->
+  <path d="M210 120 L196 60 L246 110 Z" fill="#3FA8E0"/>
+  <path d="M302 120 L316 60 L266 110 Z" fill="#3FA8E0"/>
+  <!-- 目 -->
+  <circle cx="212" cy="244" r="30" fill="#ffffff" stroke="#2B2B3A" stroke-width="8"/>
+  <circle cx="300" cy="244" r="30" fill="#ffffff" stroke="#2B2B3A" stroke-width="8"/>
+  <circle cx="218" cy="250" r="13" fill="#2B2B3A"/>
+  <circle cx="306" cy="250" r="13" fill="#2B2B3A"/>
+  <!-- ほっぺ -->
+  <circle cx="176" cy="300" r="20" fill="#BDEBFF"/>
+  <circle cx="336" cy="300" r="20" fill="#BDEBFF"/>
+  <!-- くち(にっこり) -->
+  <path d="M228 312 Q256 340 284 312" fill="none" stroke="#2B2B3A" stroke-width="9" stroke-linecap="round"/>
+  <!-- たすマーク(算数アプリの記号) -->
+  <g fill="#FFD15C" stroke="#E8A71B" stroke-width="8">
+    <rect x="384" y="120" width="22" height="74" rx="8"/>
+    <rect x="358" y="146" width="74" height="22" rx="8"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "name": "けいさんモンスター",
+  "short_name": "けいさん",
+  "description": "たしざん・ひきざんを たのしく れんしゅうする アプリ",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF6E9",
+  "theme_color": "#FFD15C",
+  "categories": ["education", "kids", "games"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
