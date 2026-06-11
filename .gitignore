@@ -1,4 +1,7 @@
 *
 !/.gitignore
+!/.github/
+!/.github/workflows/
+!/.github/workflows/deploy.yml
 !/dist/
 !/dist/**
